@@ -8,8 +8,8 @@
 * Using SparkSQL to run SQL-like queries on the dataset
 * Calculating various statistics, such as sum, average, and count
 * Grouping and aggregating data based on certain attributes
-*Creating temporary tables and views in SparkSQL
-*The dataset used for these exercises is a sample dataset of sales data from a fictional retail company called "EU Superstore". The dataset includes information on sales, profits, customer demographics, and other relevant data.
+* Creating temporary tables and views in SparkSQL
+* The dataset used for these exercises is a sample dataset of sales data from a fictional retail company called "EU Superstore". The dataset includes information on sales, profits, customer demographics, and other relevant data.
 
 Overall, these exercises aim to give a basic understanding of how to use PySpark and SparkSQL for data analysis and manipulation.
 
